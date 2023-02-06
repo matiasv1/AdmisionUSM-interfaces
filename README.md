@@ -2,7 +2,7 @@
 
 # Consideraciones
 Para iniciar sesión, simplemente hay que darle al boton de iniciar y cambiara la interfaz, ya que no se valida ningún usuario.  
-Video de prueba de la aplicación https://youtu.be/1_4hSZY4XoA . Solo se tuvo 1 semana para programar y es solo práctica front-end
+Video de prueba de la aplicación https://youtu.be/1_4hSZY4XoA . Solo práctica front-end y buenas prácticas de experencia de usuarios.
 
 # proyect-interfaces  
 ## Project setup
